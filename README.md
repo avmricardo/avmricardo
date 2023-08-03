@@ -8,11 +8,10 @@
     <a href="https://www.github.com/avmricardo">
         <img height=180em src="https://github-readme-stats.vercel.app/api?username=avmricardo&show_icons=true&theme=tokyonight"/>
     </a>
-<!-- Tamanho está bugado, provavelmente por ter apenas uma linguagem
+<!-- Tamanho está bugado, provavelmente por ter apenas uma linguagem -->
     <a href="https://www.github.com/avmricardo">
         <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=avmricardo&layout=compact&theme=tokyonight">
     </a>
--->
 </div>
 
 ---
